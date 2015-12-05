@@ -1,0 +1,19 @@
+## This file is part of Whonix.
+## Copyright (C) 2012 - 2014 Patrick Schleizer <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
+Source: qxl-xorg-enhance
+Section: misc
+Priority: optional
+Maintainer: Patrick Schleizer <adrelanos@riseup.net>
+Build-Depends: debhelper (>= 9), faketime, genmkfile
+Homepage: https://github.com/HulaHoopWhonix/qxl-xorg-enhance
+Vcs-Browser: https://github.com/HulaHoopWhonix/qxl-xorg-enhance
+Vcs-Git: https://github.com/HulaHoopWhonix/qxl-xorg-enhance.git
+Standards-Version: 3.9.6
+
+Package: qxl-xorg-enhance
+Architecture: all
+Depends: sudo, ${misc:Depends}
+Description: Improve QXL Rendering Performance
+ This package optimizes the QXL Xorg driver's settings for better UI rendering inside VMs.
