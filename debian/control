@@ -14,7 +14,6 @@ Standards-Version: 3.9.6
 
 Package: qxl-xorg-enhance
 Architecture: all
-Depends: sudo, ${misc:Depends}
 Description: Improve QXL Rendering Performance
  This package optimizes the QXL Xorg driver in VMs.
  .
