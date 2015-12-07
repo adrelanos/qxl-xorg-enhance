@@ -1,1 +1,107 @@
+commit a449473058e2d40c58d901b3e528902fc3e9171f
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sun Dec 6 19:31:16 2015 +0000
 
+    Update changelog
+
+commit a1d0289665aeca64de6de6d07e61c274f9e811fd
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 19:01:47 2015 +0000
+
+    Create lintian-overrides
+
+commit a0e493aa709f48707b2e75bfcd13eaaddece4902
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 18:57:30 2015 +0000
+
+    Create format
+
+commit 62dd03492bed2c90fe6f77c7289935963a052123
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 18:53:16 2015 +0000
+
+    Create watch
+
+commit ea2cc9fdf8a653ccca50a066aa98721757c67f0c
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 18:48:32 2015 +0000
+
+    Create rules
+
+commit 3a7a2c961dec31e2733f27a721bca3e8c9c7a4ee
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 18:45:57 2015 +0000
+
+    Create gain-root-command
+
+commit cc460373412b5b830cf03b8fd470c25ff355ac58
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 18:43:23 2015 +0000
+
+    Create copyright
+
+commit 59666eebb98696ec1414dab53ea6461ed6017634
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 18:39:04 2015 +0000
+
+    Create control
+
+commit 01361c0fde0ff1627ebffaf91f44584dd9aa95d8
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 17:52:33 2015 +0000
+
+    Create compat
+
+commit 024b57a6873b70cc972d59b6ea6654b802eb2061
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 17:51:17 2015 +0000
+
+    Create changelog
+
+commit 017b30f66904f15dc422376506bac11dc54cc35f
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 17:37:13 2015 +0000
+
+    Create 50-qxl.conf
+
+commit 886ae32ba0084a2f10db196a782ed2f904d3b582
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 17:29:35 2015 +0000
+
+    Create changelog.upstream
+
+commit 72d80f952501d9c9db3bb319edf457c75862eadc
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 17:24:54 2015 +0000
+
+    Create README.md
+
+commit e65856bb7efee17dd72d54fee23864a64617e6d7
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 15:20:11 2015 +0000
+
+    Create Makefile
+
+commit f3de3ec8ca8471c53be6f191b73489537733e563
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 15:17:29 2015 +0000
+
+    Create CONTRIBUTING.md
+
+commit 01f00a0735b8d7826df0c556d41c8fefd135a755
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 15:07:02 2015 +0000
+
+    Create COPYING
+
+commit 795a31237bdf129a3135a25780d64fc9b09a28b1
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 15:03:10 2015 +0000
+
+    Rename LICENSE to GPLv3
+
+commit 4325d9f08a4dd5342842ed08eb7465ef08480a3c
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Sat Dec 5 14:53:38 2015 +0000
+
+    Initial commit
