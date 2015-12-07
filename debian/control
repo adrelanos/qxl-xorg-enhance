@@ -16,4 +16,7 @@ Package: qxl-xorg-enhance
 Architecture: all
 Depends: sudo, ${misc:Depends}
 Description: Improve QXL Rendering Performance
- This package optimizes the QXL Xorg driver's settings for better UI rendering inside VMs.
+ This package optimizes the QXL Xorg driver in VMs.
+ .
+ Technically speaking, this package creates the configuration file
+ 50-qxl.conf in /usr/share/X11/xorg.conf.d/
