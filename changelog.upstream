@@ -1,3 +1,41 @@
+commit 0605579b46ca8359600077d141d349b36872af79
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 7 22:33:24 2016 +0000
+
+    fixed lintian warning
+    
+    qxl-xorg-enhance source: debhelper-but-no-misc-depends qxl-xorg-enhance
+
+commit f337a372abb64e9a70a6e212f43001b7557cbcc0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 15 21:04:24 2015 +0000
+
+    updated README.md
+
+commit 9ac917b2a120956ea3958d45d001b9d3dfd78b8b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Dec 7 17:28:46 2015 +0000
+
+    removed unneeded dependencies
+
+commit 1447412791cb5038db262588884d46c0a3ca9378
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Dec 7 17:28:12 2015 +0000
+
+    fixed debian package description lintian warnings
+
+commit 47b63eaf32a6e4d9dbf01e7fc065eb16a9b15b62
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Dec 7 14:30:44 2015 +0000
+
+    GPLv3: minor, use exactly same version as in other repositories
+
+commit 865b5d40278959215237c0381e5f4065f1875289
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Dec 7 13:54:28 2015 +0000
+
+    fixed changelog lintian warnings
+
 commit a449473058e2d40c58d901b3e528902fc3e9171f
 Author: HulaHoopWhonix <bancfc@openmailbox.org>
 Date:   Sun Dec 6 19:31:16 2015 +0000
