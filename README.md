@@ -5,6 +5,8 @@ This package optimizes the QXL Xorg driver in VMs.
 Technically speaking, this package creates the configuration file
 50-qxl.conf in /usr/share/X11/xorg.conf.d/
 
+Upstream reports: https://phabricator.whonix.org/T511
+
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
 # Generic Readme #
