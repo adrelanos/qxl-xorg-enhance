@@ -1,8 +1,51 @@
+commit e54c81fe8eaed45ae3998ed4fc5b3e7a60f13288
+Merge: 1a98e02 7a6b899
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Dec 10 02:27:10 2016 +0000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 1a98e026540553cc9b3dd6bd134f00f0a7378b0a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Dec 10 02:25:43 2016 +0000
+
+    bumped changelog version
+
 commit 61286d3d81d73b2da10423d77701bc5f636e1dee
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Mon Nov 21 17:42:31 2016 +0000
 
     readme
+
+commit 7a6b899c7866f14dad41a83596f2968b818b6075
+Merge: 5dfa23f 8c35300
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue May 17 11:24:11 2016 +0000
+
+    Merge pull request #2 from HulaHoopWhonix/patch-2
+    
+    Update README.md
+
+commit 5dfa23f6713b888dfe2a29f894d4a62ea6296635
+Merge: 9cafb87 6159f95
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue May 17 11:23:54 2016 +0000
+
+    Merge pull request #1 from HulaHoopWhonix/patch-1
+    
+    Update control
+
+commit 8c3530024ff40329d4fb688fcfafb127544b692d
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Mon May 16 23:15:04 2016 +0000
+
+    Update README.md
+
+commit 6159f95bca99f243fab40b1d35bf00c5aee4190e
+Author: HulaHoopWhonix <bancfc@openmailbox.org>
+Date:   Mon May 16 23:14:14 2016 +0000
+
+    Update control
 
 commit 9cafb87a96359e80db1dfe747394af713277cff0
 Author: Patrick Schleizer <adrelanos@riseup.net>
