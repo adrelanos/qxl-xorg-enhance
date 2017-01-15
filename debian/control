@@ -10,7 +10,7 @@ Build-Depends: debhelper (>= 9), faketime, genmkfile
 Homepage: https://github.com/HulaHoopWhonix/qxl-xorg-enhance
 Vcs-Browser: https://github.com/HulaHoopWhonix/qxl-xorg-enhance
 Vcs-Git: https://github.com/HulaHoopWhonix/qxl-xorg-enhance.git
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 
 Package: qxl-xorg-enhance
 Architecture: all
